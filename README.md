@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ0aXl5Nml5Zmh2djBoaGY1cDRtYWYwbTlnN2R3MnBxYmR2aXA0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif" width="260" alt="coding gif" />
+  <img src="https://raw.githubusercontent.com/samridhikots/samridhikots/refs/heads/master/assets/avatar.gif" width="260" alt="coding gif" />
 </p>
 
 ---
@@ -58,8 +58,8 @@
 
 ---
 
-### ⚡ Fun Zone  
-![Coding gif](https://i.imgur.com/1ZvVkDc.gif)
+### ⚡ Coding Zone  
+![Coding gif](src/coding.gif)
 
 ---
 
