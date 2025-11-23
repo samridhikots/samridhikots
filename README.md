@@ -71,8 +71,8 @@
 ### 🎥 **1. Video Calling App (Socket.io + WebRTC)**  
 Real-time video calling with rooms, WebRTC media streams, and live signaling.
 
-### 🛹 **2. 3D Skateboard Configurator (Three.js / R3F)**  
-Fully interactive 3D skateboard builder with textures, materials, lighting, and animations.
+### 🛹 **2. 3D Guitar Configurator (Three.js / R3F)**  
+Fully interactive 3D guitar builder with textures, materials, lighting, and animations.
 
 ---
 
