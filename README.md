@@ -59,7 +59,7 @@
 ---
 
 ### ⚡ Coding Zone  
-![Coding gif](src/coding.gif)
+![Coding gif](assets/coding.gif)
 
 ---
 
