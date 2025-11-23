@@ -1,34 +1,37 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Samridhi</h1>
-<h3 align="center">Full-Stack Developer | React • Next.js • Node.js • Python</h3>
+<h3 align="center">Full-Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samridhikots&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ0aXl5Nml5Zmh2djBoaGY1cDRtYWYwbTlnN2R3MnBxYmR2aXA0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.gif" width="260" alt="coding gif" />
 </p>
 
 ---
 
 ### 🚀 About Me  
-- 🔭 Full-stack developer working across **Frontend + Backend + DevOps**.  
-- 💼 Have worked with **multiple clients**, often as the **solo developer**, managing everything end-to-end — UI, APIs, deployments, pipelines, debugging, and optimization.  
-- 🌱 Currently exploring **AI Integrations, RAG, and cloud-based scalable architectures**.  
-- ⚡ Fun fact: I can fix production issues faster than I fix my sleep schedule 😄  
+- 👩‍💼 Currently working as a **Full-Stack Developer at Deloitte USI**.  
+- 🔭 I primarily build **full-stack e-commerce applications** and **3D interactive websites** using **Three.js / React Three Fiber**.  
+- 💼 Often the **solo developer** on projects — handling everything end-to-end:  
+  **Frontend → Backend → DevOps → Testing → Deployment**.  
+- 🌱 Exploring AI integrations and scalable architectures.
+- 🏆 I actively participate in **hackathons**, and have won a few as well!  
+- ⚡ Fun fact: I fix production issues faster than I fix my sleep schedule 😄  
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-`React` • `Next.js` • `TypeScript` • `JavaScript` • `Material UI` • `Tailwind CSS`  
+`React` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `shadcn/ui` • `DaisyUI` • `Material UI`  
 
 **Backend:**  
-`Node.js` • `Express` • `Python` • `FastAPI` • `REST APIs`  
+`Node.js` • `Express` • `REST APIs`  
 
 **Databases:**  
 `MongoDB` • `PostgreSQL` • `MySQL`  
 
 **DevOps & Tools:**  
-`Docker` • `GitHub Actions` • `Firebase` • `Nginx` • `AWS`  
+`Docker` • `GitHub Actions` • `Nginx` • `Firebase`  
 
 ---
 
@@ -41,19 +44,9 @@
 
 ---
 
-### 🏆 Key Achievements  
-- 🚀 Built & deployed multiple **end-to-end full-stack apps**.  
-- 👩‍💻 Contributed to **enterprise-level projects**, optimizing performance and adding advanced features.  
-- 🎨 Experienced with **React 19, R3F (React Three Fiber), MUI, Next.js, and cloud pipelines**.  
-- 🤝 Strong background in **client communication** and delivering production-ready solutions.  
-
----
-
 ### 🔥 Featured Projects  
-- **Smart Traffic Monitoring System** – system modeling + IoT  
-- **AI Interview Experience Application** – built with **Next.js + Vapi SDK**  
-- **3D Cabinet Visualizer** – built using **React Three Fiber + Drei**  
-- **E-commerce Filter Engine** – advanced filtering with MUI Select + custom logic  
+- **Video Calling App** – built using **Socket.io**, WebRTC, and Node.js  
+- **3D Skateboard Configurator** – built using **React Three Fiber + Drei + custom shaders**  
 
 ---
 
