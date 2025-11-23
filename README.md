@@ -58,6 +58,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridhikots&theme=tokyonight&hide_border=false" height="160" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samridhikots&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 # 🏗️ Featured Projects
