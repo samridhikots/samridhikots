@@ -55,10 +55,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samridhikots&show_icons=true&theme=tokyonight&hide_rank=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridhikots&theme=tokyonight&hide_border=false" height="160" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=samridhikots&theme=tokyonight&hide_border=false" height="160" /> -->
+  <img src="https://streak-stats.demolab.com?user=samridhikots&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="" />
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samridhikots&theme=dark)](https://git.io/streak-stats)
 
 ---
 
